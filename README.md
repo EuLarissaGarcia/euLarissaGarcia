@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=b8a88b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!il+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5+%E2%80%A2%CC%80+%E1%B4%97+-+%CB%B5+)+%E2%9C%A" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=b8a88b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5+%E2%80%A2%CC%80+%E1%B4%97+-+%CB%B5+)+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,10 +8,14 @@
 
 
 #
+<div align="center">
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Americana** e tenho experiência em **design** e **desenvolvimento web**. Sou apaixonada por **automação** e por criar **experiências visuais envolventes e funcionais**, combinando criatividade e tecnologia.  
+
+Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso tanto pelo **front-end** quanto pelo **back-end**. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
+</div>
+
 #
 
 
