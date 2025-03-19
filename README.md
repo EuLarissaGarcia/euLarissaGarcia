@@ -64,5 +64,5 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FeuLarissaGarica&s=47&c=c5aa7d&bg=00000000&no=3&ff=digi&tb=Visitantes%3A+%7C++&ta=++%7C" alt="visits"></p> 
 <br></div>
 
-![Folder Github](https://imgur.com/XjXiy63.png)
+![Folder Github](https://imgur.com/SZjfoA0.png)
 
