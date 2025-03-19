@@ -43,7 +43,7 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
 
 <h3 align="center">Entre em contato comigo!</h3>
 <div>
-<a href="https://www.linkedin.com/in/larissa-garcia-nunes-de-oliveira-9ba17a329/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-ad976d?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/eularissagarcia/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-ad976d?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank"></a>  
 <a href = "mailto:eu.larissa.garcia.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-ad976d?style=for-the-badge&logo=gmail&logoColor=ffffff" target="_blank"></a>
 </div>
 
