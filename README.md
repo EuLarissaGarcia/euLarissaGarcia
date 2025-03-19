@@ -18,9 +18,10 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
 
 <h3 align="left">Connect with me!</h3>
 <div>
-<a href="https://www.linkedin.com/in/julia-zacharin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=BB00B4" target="_blank"></a>  
-<a href = "mailto:eu.larissa.garcia.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BB00B4" target="_blank"></a>
+<a href="linkedin.com/in/larissa-garcia-nunes-de-oliveira-9ba17a329" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-ad976d?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank"></a>  
+<a href = "mailto:eu.larissa.garcia.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-ad976d?style=for-the-badge&logo=gmail&logoColor=ffffff" target="_blank"></a>
 </div>
+
 
 #
 
@@ -73,9 +74,10 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eularissagarcia&bg_color=15203b&color=FFFFFFa4&line=ccc4b6&point=b8a88b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EularissaGarcia}/count.svg" /></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FeuLarissaGarica&s=47&c=c5aa7d&bg=00000000&no=3&ff=digi&tb=Visitantes%3A+%7C++&ta=++%7C" alt="visits"></p> 
 <br></div>
+
 
 
 ![Folder Github](https://imgur.com/XjXiy63.png)
