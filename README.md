@@ -16,11 +16,23 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec A
 Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso tanto pelo **front-end** quanto pelo **back-end**. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
 </div>
 
+<h3 align="left">Connect with me!</h3>
+<div>
+<a href="https://www.linkedin.com/in/julia-zacharin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=BB00B4" target="_blank"></a>  
+<a href = "mailto:eu.larissa.garcia.oliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BB00B4" target="_blank"></a>
+</div>
+
 #
+
+<img align="center" alt="" src="https://imgur.com/QiNg6uQ.png">
+
+
+ 
+
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EularissaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=3557a4&icon_color=b8a88b&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EularissaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=3557a4&icon_color=b8a88b&text_color=c9d1d9&bg_color=0d1117" alt="Larissa Garcia github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EularissaGarcia&layout=compact&hide_border=true&title_color=3557a4&text_color=b8a88b&bg_color=0d1117" />
 </div>
 
@@ -66,5 +78,5 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15203b&height=120&section=footer"/>
+![Folder Github](https://imgur.com/XjXiy63.png)
 
