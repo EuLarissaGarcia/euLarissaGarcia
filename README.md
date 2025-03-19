@@ -1,7 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b8a88b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-![Header Github](https://imgur.com/pkHDCsm.png)
+![Header Github](https://imgur.com/At6fuLV.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8a88b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Larissa+Garcia+!;I'm+22+years+old!;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EularissaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=3557a4&icon_color=b8a88b&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
