@@ -54,7 +54,7 @@ Tenho habilidades em **HTML, CSS, JavaScript, Python, C e Java**, e me interesso
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EularissaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=3557a4&icon_color=b8a88b&text_color=c9d1d9&bg_color=0d1117" alt="Larissa Garcia github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EularissaGarcia&layout=compact&hide_border=true&title_color=3557a4&text_color=b8a88b&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eularissagarcia&layout=compact&hide_border=true&title_color=3557a4&text_color=b8a88b&bg_color=0d1117" />
 </div>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eularissagarcia&bg_color=15203b&color=FFFFFFa4&line=ccc4b6&point=b8a88b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
